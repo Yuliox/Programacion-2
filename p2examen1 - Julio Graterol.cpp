@@ -95,6 +95,3 @@ void FuncMovil(int& Xo, int& Vo, int& t, int& ac){
 	Xf = (Xo + Vo + ((ac * pow( t ,2))/2));
 	printf("El desplazamiento es: Xf = %.2f.", Xf);
 }
-
-
-
